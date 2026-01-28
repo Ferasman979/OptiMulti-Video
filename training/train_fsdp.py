@@ -1,4 +1,8 @@
 import os
+import sys
+# Add project root to sys.path
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+
 import time
 import torch
 import torch.nn as nn
