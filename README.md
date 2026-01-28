@@ -7,9 +7,7 @@ This project demonstrates a vertical slice of a high-performance Multimodal AI s
 2.  **Multimodal Architecture**: A compact Video-Text Transformer model.
 3.  **Distributed Training**: FSDP (Fully Sharded Data Parallel) training loop designed to run on dual T4 GPUs (available for free on Kaggle/Colab).
 
-## 🚀 How to Run on Google Colab / Kaggle
-
-To "integrate" this with Colab effectively for your portfolio:
+##  How to Run on Google Colab / Kaggle For Testing Purposes:
 
 1.  **Push to GitHub**: Sync this local folder to a public GitHub repository named `OptiMulti-Video`.
 2.  **Open the Notebook**: Upload `notebooks/colab_demo.ipynb` to Google Colab.
